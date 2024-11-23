@@ -1,0 +1,16 @@
+#home{
+    background-image: url("../img/fundohome-removebg.png");
+    background-position: 50% 50%;
+    background-repeat: repeat;
+    height: 523px;
+    width: 100%;
+}
+
+#banner{
+    display: flex;
+    justify-content: center;
+}
+
+#bannerimg{
+    margin-top: 15px;
+}
