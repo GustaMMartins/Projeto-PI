@@ -93,3 +93,14 @@ body{
     margin-right: 20%;
     align-items: center;
 }
+.paragrafo4{
+    display: flex;
+    font-size: 24px;
+    margin-left: 10%;
+    margin-right: 20%;
+    align-items: center;
+}
+
+.paragrafo, .paragrafo1, .paragrafo2, .paragrafo3, .paragrafo4{
+    text-align: justify;
+}

@@ -32,4 +32,5 @@
 #itenscontato{
     display: flex;
     justify-content: space-between;
+    color: #ffffff;
 }

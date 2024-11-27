@@ -7,13 +7,13 @@ section {
 
 section .section-title {
     text-align: center;
-    color: #007b5e;
+    color: #0b1c4d;
     margin-bottom: 50px;
     text-transform: uppercase;
 }
 
 #footer {
-    background: #2e8d88 !important;
+    background: #0b1c4d !important;
 }
 
 #footer h5 {
@@ -33,6 +33,7 @@ section .section-title {
 
 #footer ul.social li {
     padding: 3px 0;
+    color: #eeeeee;
 }
 
 #footer ul.social li a i {
@@ -41,11 +42,13 @@ section .section-title {
     -webkit-transition: .5s all ease;
     -moz-transition: .5s all ease;
     transition: .5s all ease;
+    color: #eeeeee;
 }
 
 #footer ul.social li:hover a i {
     font-size: 30px;
     margin-top: -10px;
+    color: #eeeeee;
 }
 
 #footer ul.social li a,
@@ -62,20 +65,24 @@ section .section-title {
     -webkit-transition: .5s all ease;
     -moz-transition: .5s all ease;
     transition: .5s all ease;
+    
 }
 
 #footer ul.quick-links li:hover {
     padding: 3px 0;
     margin-left: 5px;
     font-weight: 700;
+    
 }
 
 #footer ul.quick-links li a i {
     margin-right: 5px;
+    
 }
 
 #footer ul.quick-links li:hover a i {
     font-weight: 700;
+    
 }
 
 @media (max-width:767px) {
